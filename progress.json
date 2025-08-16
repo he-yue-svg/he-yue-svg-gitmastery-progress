@@ -7,23 +7,5 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755338562.211772,
-    "completed_at": 1755338562.509513,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755339253.767468,
-    "completed_at": 1755339253.823215,
-    "comments": [
-      "not enough values to unpack (expected 2, got 1)"
-    ],
-    "status": "Error"
   }
 ]
